@@ -1,6 +1,6 @@
-<h1 align="center">EVALink</h1>
-<p align="center">From information to insight: Explore the possibilities of our intuitive open-source knowledge base</p>
 [![MasterHead](http://nextgen.marssociety.org/images/logo/TMSlogo.png)](https://rishavchanda.io)
+<h1>EVALink</h1>
+<p>From information to insight: Explore the possibilities of our intuitive open-source knowledge base</p>
 
 ## Features
 * Data Visualization: Transform research findings into impactful visuals with built-in data visualization tools. Researchers can generate charts, graphs, and interactive visualizations to better communicate their results.
