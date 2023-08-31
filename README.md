@@ -25,7 +25,7 @@ Joining our community means becoming a part of a diverse group of passionate ind
 
 We would like to express our gratitude to all the individuals who have already contributed to EVALink! If you have any EVALink related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub
 
-<h1>Templates</h1>
+<h3>Templates</h3>
 - Commanders Report
 - Engineers Report
 - EVA Report
